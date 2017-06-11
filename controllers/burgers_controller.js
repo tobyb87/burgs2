@@ -8,7 +8,7 @@ var db = require("../models/");
 // get route 
 router.get("/", function(req, res) {
 
-  res.redirect("/burgers");
+  res.redirect("/");
 });
 
 
