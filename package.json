@@ -19,5 +19,13 @@
   },
   "devDependencies": {
     "handlebars-helper-css": "^0.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobyb87/burgs2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tobyb87/burgs2/issues"
+  },
+  "homepage": "https://github.com/tobyb87/burgs2#readme"
 }
